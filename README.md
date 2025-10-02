@@ -38,18 +38,26 @@ Subsequent interest amounts become smaller
 
 ## Example:
 Inputs:
+
 Enter currency symbol (e.g., $, €, £, ¥, ₹):
 ریال
 Enter annual interest rate (%)
+
 22
 Enter loan amount:
+
 50000000
+
 Enter payment period (in years):
+
 3
 
 Outputs:
+
 Monthly interest rate:1.8333%
+
 Monthly payment: ریال1,909,523.862
+
 Number of payments :36
 
 ## Requirements
