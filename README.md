@@ -1,4 +1,5 @@
-# Java_Mortage_Calculator
+# Java Mortgage Calculator
+
 A flexible and user-friendly mortgage calculator that supports any currency! Calculate your monthly payments with ease.
 
 # Outputs
@@ -8,64 +9,44 @@ A flexible and user-friendly mortgage calculator that supports any currency! Cal
 
 ## How to Use
 1. Compile the program:
-
    javac MortgageCalculator.java
 
 2. Run the program:
-
    java MortgageCalculator
 
-
 Enter the required information when prompted:
-
 Your preferred currency symbol
-
 Annual interest rate (%)
-
 Loan amount
-
 Payment period (in years)
 
-##Formular
-
+## Formula
 M = P * [r(1+r)^n] / [(1+r)^n - 1]
 
-Monthly Patments Contain: Interest + Principal
-
+Monthly Payments Contain: Interest + Principal
 Interest is calculated on the remaining balance each month
-
 With each payment, the principal balance decreases
-
 Subsequent interest amounts become smaller
 
-##Example:
+## Example:
 Inputs:
-
 Enter currency symbol (e.g., $, €, £, ¥, ₹):
-                                                                                                                                                                  ریال
-
+ریال
 Enter annual interest rate (%)
 22
-
 Enter loan amount:
 50000000
-
 Enter payment period (in years):
 3
 
 Outputs:
-
 Monthly interest rate:1.8333%
-
-Monthly payment:  ریال1,909,523.862
-
+Monthly payment: ریال1,909,523.862
 Number of payments :36
 
-Requirements 
-
+## Requirements
 Java 8 or higher
-
 No external dependencies
 
-Author
+## Author
 Enjoy!
