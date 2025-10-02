@@ -10,9 +10,12 @@ A flexible and user-friendly mortgage calculator that supports any currency! Cal
 1. Compile the program:
 
    javac MortgageCalculator.java
-Run the program:
 
-java MortgageCalculator
+2. Run the program:
+
+   java MortgageCalculator
+
+
 Enter the required information when prompted:
 
 Your preferred currency symbol
