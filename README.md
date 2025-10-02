@@ -39,18 +39,13 @@ Subsequent interest amounts become smaller
 ## Example:
 Inputs:
 
-Enter currency symbol (e.g., $, €, £, ¥, ₹):
-ریال
-Enter annual interest rate (%)
+Enter currency symbol (e.g., $, €, £, ¥, ₹): ریال
+    
+Enter annual interest rate (%): 22
 
-22
-Enter loan amount:
+Enter loan amount: 50000000
 
-50000000
-
-Enter payment period (in years):
-
-3
+Enter payment period (in years): 3
 
 Outputs:
 
