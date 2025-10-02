@@ -66,4 +66,3 @@ No external dependencies
 
 Author
 Enjoy!
-أه
