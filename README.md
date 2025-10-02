@@ -4,10 +4,13 @@ A flexible and user-friendly mortgage calculator that supports any currency! Cal
 
 # Outputs
 -The monthly interest rate
+
 -The Montly Payment Amount
+
 -The Number of Payments
 
 ## How to Use
+
 1. Compile the program:
    javac MortgageCalculator.java
 
@@ -15,15 +18,20 @@ A flexible and user-friendly mortgage calculator that supports any currency! Cal
    java MortgageCalculator
 
 Enter the required information when prompted:
-Your preferred currency symbol
-Annual interest rate (%)
-Loan amount
-Payment period (in years)
+
+-Your preferred currency symbol
+
+-Annual interest rate (%)
+
+-Loan amount
+
+-Payment period (in years)
 
 ## Formula
 M = P * [r(1+r)^n] / [(1+r)^n - 1]
 
 Monthly Payments Contain: Interest + Principal
+
 Interest is calculated on the remaining balance each month
 With each payment, the principal balance decreases
 Subsequent interest amounts become smaller
